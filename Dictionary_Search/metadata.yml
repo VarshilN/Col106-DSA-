@@ -1,0 +1,14 @@
+---
+:id: 206972403
+:submitters:
+- :name: Tushar Goyal
+  :email: mt1221266@maths.iitd.ac.in
+- :name: Varshil Nakum
+  :email: cs1221624@cse.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-27 19:35:50.011698000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-27 12:35:50.011698000 Z
+:status: processed
+:score: 60.0
